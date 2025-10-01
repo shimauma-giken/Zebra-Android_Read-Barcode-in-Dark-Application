@@ -17,27 +17,7 @@
 </br>
 
 #### 表１：運用環境の明るさとイルミネーション設定の目安
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border: 1px solid black;
-        padding: 8px;
-        text-align: center;
-    }
-    /* 1列目と2列目の左寄せ調整（オプション） */
-    td:nth-child(2) {
-        text-align: left;
-    }
-</style>
-</head>
-<body>
+
 
 <table>
     <thead>
@@ -81,8 +61,6 @@
     </tbody>
 </table>
 
-</body>
-</html>
 
 </br>
 </br>
