@@ -1,6 +1,8 @@
 ### Zebra-Android_Read Barcode in Dark Application
 # Zebra Android内蔵のスキャナで暗所のバーコードを快適に読み取る方法
 
+![](https://images.unsplash.com/photo-1559218676-efa1078363c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGFyayUyMHdvcmt8ZW58MHx8MHx8fDA%3D)
+
 屋外の夜間作業、物流倉庫内など、明るさを確保できない運用環境でバーコードをスキャンするシーンがあります。現行の設定で快適に適切なスキャン結果を取得できない場合は下記の通り、イルミネーション設定を設定ください。
 
 </br>
